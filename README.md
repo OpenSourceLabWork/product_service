@@ -18,9 +18,9 @@
 ## Importing jMetall to Eclipse
 #### Download jMetall
 * Run the following command from your git terminal
-`https://github.com/faziehan/product_service.git`
+`https://github.com/OpenSourceLabWork/product_service.git`
 <br>OR<br>
-Download zip file - [download](https://github.com/faziehan/product_service/archive/master.zip)<br>
+Download zip file - [download](https://github.com/OpenSourceLabWork/product_service/archive/master.zip)<br>
 * Open Eclipse<br>
        * Go to File -> Import <br>
        * In Import Window, Go to Maven -> Existing Maven Project <br>
